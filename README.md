@@ -5,7 +5,7 @@ Explained how to implement YoutubePlayer in Fragment.
 --- |
 Youtube Player Fragment |
 
-For detailed explanation of code, [visit here](http://www.androhub.com/implementing-bottomappbar-material-components/).
+For detailed explanation of code, [visit here](http://www.androhub.com/implement-youtube-player-fragment-android-app/).
 
 # Video Demo
 👉 Watch it <a href="https://youtu.be/eouC8RUmHh8">here</a>.
