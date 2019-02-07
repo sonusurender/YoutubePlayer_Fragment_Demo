@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Youtube Player Fragment Demo</string>
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+
+
+    <!--  we need to use video ids instead of video link  -->
+    <string-array name="video_id_array">
+        <item>CqhpNxI8qYw</item>
+        <item>sasCrpgHDy8</item>
+        <item>iJeh3x09Ya8</item>
+        <item>B5zRaD7B504</item>
+        <item>9qWHzj8k-Uo</item>
+        <item>RjiK45wC924</item>
+        <item>RH3zaLO8H4E</item>
+        <item>o14pyzosjvk</item>
+        <item>5SQrpBQne7A</item>
+        <item>5WJ3r67ORxo</item>
+    </string-array>
+
+</resources>
